@@ -351,5 +351,26 @@
     ],
     "category": "work",
     "order": 11
+  },
+  {
+    "id": "bb520826-9c53-4d5f-bd26-4ebdf58d21b6",
+    "title": "The Smile Lounge Dental Care",
+    "role": "Website Builder | SEO | Meta Ads Consultant",
+    "period": "",
+    "description": "As a part-time Web Developer and Marketing Consultant for Smile Lounge Dental Care, I helped establish and grow their online presence from the ground up building their website, streamlining their digital touchpoints, and running paid advertising campaigns to drive patient inquiries and bookings.",
+    "image": "/uploads/work/7d8f9df2-d30c-463b-82e3-888e13cce18e.webp",
+    "link": "",
+    "tags": [],
+    "galleryImages": [],
+    "detailSections": [
+      {
+        "id": "section-1790337276978",
+        "heading": "How I Helped the Business",
+        "type": "bullets",
+        "content": "Designed and launched the official website (thesmilelounge.org) to give the practice a professional online presence\nSet up and managed their Linktree to centralize booking links, social profiles, and contact info for patients\nPlanned, launched, and managed Meta (Facebook/Instagram) Ads campaigns to increase local visibility and patient leads\nConsulted on overall digital advertising strategy, including targeting, budget allocation, and campaign optimization\nActed as a one-stop digital resource for the clinic, handling both technical (web) and marketing (ads) needs"
+      }
+    ],
+    "category": "work",
+    "order": 12
   }
 ]

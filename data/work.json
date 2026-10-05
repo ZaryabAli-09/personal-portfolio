@@ -251,7 +251,7 @@
     "role": "Creator & Developer",
     "period": "Side Project",
     "description": "An AI-powered full-stack travel planning app built with Next.js that turns a few trip preferences into a complete, day-by-day itinerary. SafarAI generates structured travel plans - destinations, daily activities, budget breakdowns, weather forecasts, and location images by combining an LLM-driven planning engine with several free public APIs for geocoding, weather, and imagery, all wrapped in a full authentication and trip-management system.",
-    "image": "/uploads/work/c16d3277-7abf-46bf-9ca6-fd4f870f02a8.webp",
+    "image": "/uploads/work/58d0fa83-5806-42e6-aed2-5d413f3e2941.webp",
     "link": "https://safarai1x.vercel.app/",
     "tags": [
       "Next.js",

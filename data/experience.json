@@ -1,40 +1,5 @@
 [
   {
-    "id": "6pm-media",
-    "company": "6pm Media",
-    "role": "Backend Development Intern",
-    "employmentType": "Internship",
-    "location": "Saddar Bazar, Peshawar",
-    "duration": "4 months",
-    "logo": null,
-    "bullets": [
-      "Learned backend development from the ground up using Node.js / Express.js",
-      "Worked on a course platform and LMS website",
-      "Gained exposure to game development workflows, since the software house's primary focus was game development"
-    ],
-    "order": 0,
-    "companyLink": "",
-    "startDate": "2024-05-01",
-    "endDate": "2024-08-01"
-  },
-  {
-    "id": "apricoica",
-    "company": "Apricocia",
-    "role": "Web & SEO Consultant",
-    "employmentType": "Part-time",
-    "location": "Remote",
-    "duration": "2 months",
-    "logo": "/uploads/experience/a0ef04f0-a8b1-417c-b569-b9d4e8b6a96c.webp",
-    "bullets": [
-      "Consulted and helped a leading western wear eCommerce brand enhance their website",
-      "Defined and implemented an SEO strategy to improve online visibility"
-    ],
-    "order": 1,
-    "companyLink": "https://apricocia.com/",
-    "startDate": "2025-01-01",
-    "endDate": "2025-05-01"
-  },
-  {
     "id": "elexoft",
     "company": "Elexoft Technologies",
     "role": "Full Stack Software Engineer",
@@ -48,10 +13,10 @@
       "After approximately 2 months on WizBay, I was moved to Conn1, a new and technically challenging system designed to integrate external product APIs with WizBay. Led a 5-engineer team as technical lead on Conn1, owning the full lifecycle from architecture through deployment, designed a microservices-based system with scalable service boundaries, backend integrations, and cloud-native infrastructure on AWS EKS, while driving development, code reviews, debugging, and key technical decisions throughout.",
       "Architected and built Conn1 to integrate 150K+ products across multiple external APIs, enabling automated bulk product listing on WizBay."
     ],
-    "order": 2,
+    "order": 0,
     "companyLink": "https://elexoft.com",
     "startDate": "2025-10-01",
-    "endDate": "2026-09-30"
+    "endDate": "2026-11-01"
   },
   {
     "id": "smile-lounge",
@@ -67,9 +32,44 @@
       "Managed Meta Ads campaigns",
       "Consulted on ads strategy"
     ],
-    "order": 3,
+    "order": 1,
     "companyLink": "https://thesmilelounge.org",
     "startDate": "2026-04-01",
     "endDate": "2026-07-01"
+  },
+  {
+    "id": "apricoica",
+    "company": "Apricocia",
+    "role": "Web & SEO Consultant",
+    "employmentType": "Part-time",
+    "location": "Remote",
+    "duration": "5 months",
+    "logo": "/uploads/experience/a0ef04f0-a8b1-417c-b569-b9d4e8b6a96c.webp",
+    "bullets": [
+      "Consulted and helped a leading western wear eCommerce brand enhance their website",
+      "Defined and implemented an SEO strategy to improve online visibility"
+    ],
+    "order": 2,
+    "companyLink": "https://apricocia.com/",
+    "startDate": "2025-06-01",
+    "endDate": "2025-10-10"
+  },
+  {
+    "id": "6pm-media",
+    "company": "6pm Media",
+    "role": "Backend Development Intern",
+    "employmentType": "Internship",
+    "location": "Saddar Bazar, Peshawar",
+    "duration": "4 months",
+    "logo": null,
+    "bullets": [
+      "Learned backend development from the ground up using Node.js / Express.js",
+      "Worked on a course platform and LMS website",
+      "Gained exposure to game development workflows, since the software house's primary focus was game development"
+    ],
+    "order": 3,
+    "companyLink": "",
+    "startDate": "2024-05-01",
+    "endDate": "2024-08-01"
   }
 ]

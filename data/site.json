@@ -5,11 +5,11 @@
   "cvUrl": "/uploads/cv/cv.pdf",
   "role": "Full-stack Software Engineer",
   "heroSince": "2021",
-  "heroDescription": "with 1.5+ years of professional experience, building production-ready web, mobile, AI, and cloud solutions since",
+  "heroDescription": "with 2+ years of professional experience, building production-ready web, mobile, AI, and cloud solutions since",
   "aboutTitle": "Full-stack engineer, curious by nature.",
   "aboutParagraphs": [
     "I started my software engineering journey and wrote my first line of code five years ago. During university, I focused on learning, building side learning projects, and completing internships across multiple software houses.",
-    "After earning my BS in Software Engineering from Iqra National University, Peshawar, I joined Elexoft as a full-stack engineer. With 1.5+ years of professional experience, I enjoy building real-world products, solving problems, and continuously learning."
+    "After earning my BS in Software Engineering from Iqra National University, Peshawar, I joined Elexoft as a full-stack engineer. With 2+ years of professional experience, I enjoy building real-world products, solving problems, and continuously learning."
   ],
   "aboutStats": [
     {
@@ -17,7 +17,7 @@
       "label": "Started coding"
     },
     {
-      "value": "1.5+ yrs",
+      "value": "2+ yrs",
       "label": "Professional experience"
     },
     {

@@ -71,5 +71,19 @@
     "companyLink": "",
     "startDate": "2024-05-01",
     "endDate": "2024-08-01"
+  },
+  {
+    "id": "ff5c9dc3-9835-4c8f-96c4-70bc200f0a26",
+    "company": "N6 Solution",
+    "companyLink": "https://n6solution.com",
+    "role": "Backend Software Engineer",
+    "employmentType": "Full-Time",
+    "location": "Redox Plaza, Office#4, New City Phase 1, Wah Cantt",
+    "startDate": "",
+    "endDate": "",
+    "duration": "",
+    "logo": "/uploads/experience/0ca2a430-66e1-4c65-b037-c953b68ee8df.webp",
+    "bullets": [],
+    "order": 4
   }
 ]

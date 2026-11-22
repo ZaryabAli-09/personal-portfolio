@@ -5,17 +5,20 @@
     "role": "Full Stack Software Engineer",
     "employmentType": "Full-time",
     "location": "New City Phase 2, Wah Cantt City Center",
-    "duration": "1+ years",
+    "duration": "1 year 6 months",
     "logo": "/uploads/experience/a9b69414-8223-4878-8ae7-06a30cac059c.webp",
     "bullets": [
-      "Joined Elexoft and completed an intensive onboarding and training phase covering HRM, CRM, internal workflows, development practices, and team collaboration processes.",
-      "After the initial training week, I was assigned to WizBay, a large-scale multi-vendor fashion marketplace being developed for a client targeting the European market. Worked across the application stack, contributing to feature development, API integration, business logic, database operations, and frontend development while collaborating within a cross-functional engineering team.",
-      "After approximately 2 months on WizBay, I was moved to Conn1, a new and technically challenging system designed to integrate external product APIs with WizBay. Led a 5-engineer team as technical lead on Conn1, owning the full lifecycle from architecture through deployment, designed a microservices-based system with scalable service boundaries, backend integrations, and cloud-native infrastructure on AWS EKS, while driving development, code reviews, debugging, and key technical decisions throughout.",
-      "Architected and built Conn1 to integrate 150K+ products across multiple external APIs, enabling automated bulk product listing on WizBay."
+      "Led a 5-engineer team building Conn1, a Node.js microservices platform designed to sync 150,000+ products from external APIs into WizBay.",
+      "Built asynchronous product import and publishing workflows with BullMQ and Redis Queue.",
+      "Deployed Conn1 dockerized microservices to Amazon EKS using Bitbucket-linked AWS CodeBuild pipelines and Amazon ECR image repositories. Configured Kubernetes Horizontal Pod Autoscaling (HPA) and node autoscaling to handle changes in load. Hosted the frontend on Amplify and provisioned Amazon ElastiCache for Redis and BullMQ queues and Amazon OpenSearch Service for product catalogue search.",
+      "Created extensive Postman API test suites to validate endpoints and integrations, and documented the system architecture covering design, deployment, and integrations.",
+      "Contributed as a full-stack engineer to WizBay, a large-scale multi-vendor fashion marketplace for a European (Greece-based) client, spanning feature development, API integrations, and backend and frontend work.",
+      "Helped set up CI/CD with AWS CodeBuild and defined the initial Kubernetes infrastructure supporting the platform's migration from a monolith to microservices.",
+      "Prepared extensive integration and unit tests to validate API integrations and core workflows."
     ],
     "order": 0,
     "companyLink": "https://elexoft.com",
-    "startDate": "2025-10-01",
+    "startDate": "2025-05-01",
     "endDate": "2026-11-01"
   },
   {
@@ -24,18 +27,17 @@
     "role": "Web Developer & Marketing Consultant",
     "employmentType": "Part-time",
     "location": "Remote",
-    "duration": "3 months",
+    "duration": "8 months",
     "logo": "/uploads/experience/ab8bcb82-67c9-429b-b759-7d8f33300bf3.webp",
     "bullets": [
-      "Built and launched their website",
-      "Set up and managed their Linktree",
-      "Managed Meta Ads campaigns",
-      "Consulted on ads strategy"
+      "Built and launched the clinic's website, managing domain setup, deployment, and on-page SEO, and consulted on Meta Ads campaigns.",
+      "Implemented a chatbot to answer patient queries and integrated a WhatsApp widget with a prefilled message for contacting the clinic.",
+      "Deployed the website to production on Vercel with custom domain configuration."
     ],
     "order": 1,
     "companyLink": "https://thesmilelounge.org",
-    "startDate": "2026-04-01",
-    "endDate": "2026-07-01"
+    "startDate": "2024-11-01",
+    "endDate": "2025-07-01"
   },
   {
     "id": "apricoica",
@@ -46,13 +48,13 @@
     "duration": "5 months",
     "logo": "/uploads/experience/a0ef04f0-a8b1-417c-b569-b9d4e8b6a96c.webp",
     "bullets": [
-      "Consulted and helped a leading western wear eCommerce brand enhance their website",
-      "Defined and implemented an SEO strategy to improve online visibility"
+      "Handled social media for a fashion e-commerce brand, planning and publishing content to maintain a consistent online presence.",
+      "Designed Shopify page layouts and social media posts that showcased products and matched the brand's visual identity."
     ],
     "order": 2,
     "companyLink": "https://apricocia.com/",
-    "startDate": "2025-06-01",
-    "endDate": "2025-10-10"
+    "startDate": "2024-05-01",
+    "endDate": "2024-10-01"
   },
   {
     "id": "6pm-media",
@@ -60,30 +62,33 @@
     "role": "Backend Development Intern",
     "employmentType": "Internship",
     "location": "Saddar Bazar, Peshawar",
-    "duration": "4 months",
+    "duration": "3 months",
     "logo": null,
     "bullets": [
-      "Learned backend development from the ground up using Node.js / Express.js",
-      "Worked on a course platform and LMS website",
-      "Gained exposure to game development workflows, since the software house's primary focus was game development"
+      "Architected and built backend APIs for a course platform (LMS) using Express.js and MongoDB, with secure authentication using custom JWT sessions.",
+      "Built a pixel-perfect UI from Figma designs and integrated it with the backend. Gained exposure to game development tools."
     ],
-    "order": 3,
+    "order": 4,
     "companyLink": "",
-    "startDate": "2024-05-01",
-    "endDate": "2024-08-01"
+    "startDate": "2022-01-01",
+    "endDate": "2022-04-01"
   },
   {
     "id": "ff5c9dc3-9835-4c8f-96c4-70bc200f0a26",
-    "company": "N6 Solution",
-    "companyLink": "https://n6solution.com",
+    "company": "N1 Solution SMC Limited",
+    "companyLink": "",
     "role": "Backend Software Engineer",
     "employmentType": "Full-Time",
     "location": "Redox Plaza, Office#4, New City Phase 1, Wah Cantt",
-    "startDate": "",
-    "endDate": "",
-    "duration": "",
+    "startDate": "2022-05-01",
+    "endDate": "2024-04-01",
+    "duration": "1 year 11 months",
     "logo": "/uploads/experience/0ca2a430-66e1-4c65-b037-c953b68ee8df.webp",
-    "bullets": [],
-    "order": 4
+    "bullets": [
+      "Architected and built services for internal human resource management (HRM) and customer relationship management (CRM) applications.",
+      "Built efficient RESTful APIs with Node.js, Express.js, and a Postgres database to support employee and customer record management.",
+      "Designed RAG pipelines in collaboration with AI engineers to develop and ship custom chatbots."
+    ],
+    "order": 3
   }
 ]
